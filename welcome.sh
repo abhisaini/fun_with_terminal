@@ -31,7 +31,9 @@ echo "${normal}"
 myName 
 center "=====" "=" ${normal} ${normal}
 echo ""
-bash mywife.sh
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+# echo "$DIR/mywife.sh"
+bash "$DIR/mywife.sh"
 echo ${normal} ${bold}
 center "xxxx" "x" ${bold} ${bold}
 echo ""
