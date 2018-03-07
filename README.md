@@ -1,5 +1,6 @@
 # fun_with_terminal
-**Feeling a bit funny...lets try something new**
+Feeling a bit funny...lets try something new
+----------
 A more better interface for terminal
 ## Installation
 - First of all run clone the repo on your device 
